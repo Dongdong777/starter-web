@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## --> new changes in master
 
-## more changes in branch -->
+## master change here
 
 
 ## has more changes in conflic
