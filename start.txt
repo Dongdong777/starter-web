@@ -1,3 +1,6 @@
 conflict here in master
 modify this file
 some changes here
+
+
+changes in rebaseBranch
