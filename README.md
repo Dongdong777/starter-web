@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 ## more changes in branch -->
 
 
-## rebase conflict master
+## has more changes in conflic
