@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## --> new changes in master
 
 ## more changes in branch -->
+
+
+## rebase conflict master
